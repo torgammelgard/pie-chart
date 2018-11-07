@@ -88,3 +88,11 @@ pie_chart.iml
 
 # Include the gradle wrapper jar
 !*/gradle-wrapper.jar
+
+build
+
+# Gradle:
+.idea/gradle.xml
+.idea/libraries
+.gradle
+
