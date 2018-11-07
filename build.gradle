@@ -6,3 +6,9 @@
  */
 apply plugin: 'java'
 apply plugin: 'idea'
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'App'
+    }
+}
