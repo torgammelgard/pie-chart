@@ -87,7 +87,7 @@ hs_err_pid*
 pie_chart.iml
 
 # Include the gradle wrapper jar
-!*/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.jar
 
 build
 
