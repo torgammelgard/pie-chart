@@ -2,7 +2,9 @@
 A small Java, MVC project
 
 ## Description
-A pie chart program ![pie chart image](doc/images/pie_chart.png)
+A pie chart program
+
+<img src="doc/images/pie_chart.png" width=300 />
 
 ## How to install (Mac)
 - git clone https://github.com/torgammelgard/pie_chart.git
