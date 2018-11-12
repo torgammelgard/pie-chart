@@ -1,4 +1,4 @@
-# pie_chart
+# Pie chart
 A small Java, MVC project
 
 ## Description
